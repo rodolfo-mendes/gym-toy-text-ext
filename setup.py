@@ -18,7 +18,7 @@ classifiers = [
 ]
 
 setup(name="gym-toy-text-ext",
-    version="0.0.dev1",
+    version="0.0.dev2",
     author="rodmsmendes",
     author_email="rodolfo@reinforcementlearning4.fun",
     description="Toy Text Extended. An extension of the Gym's Toy Text environment.",
